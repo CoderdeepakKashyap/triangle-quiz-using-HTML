@@ -1,1 +1,1 @@
-# triangle-quiz-using-HTML
+# triangle-quiz-using-HTML,CSS and JS
